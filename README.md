@@ -58,7 +58,7 @@
 
 ```bash
 pip install matplotlib tqdm
-
+```
 
 
 #Simple Wine Classifier
@@ -121,3 +121,4 @@ Make sure you have installed the following Python libraries:
 
 ```bash
 pip install matplotlib tqdm
+```
